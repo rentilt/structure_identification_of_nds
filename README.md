@@ -1,10 +1,6 @@
-# structure_identification_of_nds
+# STRUCTURE IDENTIFICATION OF NETWORKED DYNAMICAL SYSTEMS UNDER PARTIAL OBSERVABILITY AND COLORED NOISE VIA MACHINE LEARNING TOOLS
 
-Clean code of the product from my Master Thesis: <br> 
-**"STRUCTURE IDENTIFICATION OF
-NETWORKED DYNAMICAL SYSTEMS
-UNDER PARTIAL OBSERVABILITY AND COLORED
-NOISE VIA MACHINE LEARNING TOOLS"**
+Clean code from my Master thesis focusing on **Networked Dynamical Systems** and **Machine Learning**. We extracted **features** from the time series data and used a **CNN** to classify each pair of nodes as connected or disconnected.
 
 ## Goal
 Infer the topology of the graph of NDS (Networked Dynamical Systems) from the activity of the nodes (time series)
